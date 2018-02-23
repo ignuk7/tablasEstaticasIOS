@@ -12,6 +12,34 @@
 		E37B72422004B15000745D4B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E37B72402004B15000745D4B /* Main.storyboard */; };
 		E37B72442004B15000745D4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E37B72432004B15000745D4B /* Assets.xcassets */; };
 		E37B72472004B15000745D4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E37B72452004B15000745D4B /* LaunchScreen.storyboard */; };
+		E37B72622004B6B000745D4B /* alaves.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B724E2004B6B000745D4B /* alaves.png */; };
+		E37B72632004B6B000745D4B /* athletic.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B724F2004B6B000745D4B /* athletic.png */; };
+		E37B72642004B6B000745D4B /* atm.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B72502004B6B000745D4B /* atm.png */; };
+		E37B72652004B6B000745D4B /* betis.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B72512004B6B000745D4B /* betis.png */; };
+		E37B72662004B6B000745D4B /* celta.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B72522004B6B000745D4B /* celta.png */; };
+		E37B72672004B6B000745D4B /* depor.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B72532004B6B000745D4B /* depor.png */; };
+		E37B72682004B6B000745D4B /* eibar.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B72542004B6B000745D4B /* eibar.png */; };
+		E37B72692004B6B000745D4B /* espanyol.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B72552004B6B000745D4B /* espanyol.png */; };
+		E37B726A2004B6B000745D4B /* fcb.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B72562004B6B000745D4B /* fcb.png */; };
+		E37B726B2004B6B000745D4B /* granada.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B72572004B6B000745D4B /* granada.png */; };
+		E37B726C2004B6B000745D4B /* laspalmas.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B72582004B6B000745D4B /* laspalmas.png */; };
+		E37B726D2004B6B000745D4B /* leganes.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B72592004B6B000745D4B /* leganes.png */; };
+		E37B726E2004B6B000745D4B /* malaga.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B725A2004B6B000745D4B /* malaga.png */; };
+		E37B726F2004B6B000745D4B /* osasuna.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B725B2004B6B000745D4B /* osasuna.png */; };
+		E37B72702004B6B000745D4B /* realmadrid.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B725C2004B6B000745D4B /* realmadrid.png */; };
+		E37B72712004B6B000745D4B /* realsociedad.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B725D2004B6B000745D4B /* realsociedad.png */; };
+		E37B72722004B6B000745D4B /* realsporting.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B725E2004B6B000745D4B /* realsporting.png */; };
+		E37B72732004B6B000745D4B /* sevilla.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B725F2004B6B000745D4B /* sevilla.png */; };
+		E37B72742004B6B000745D4B /* valencia.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B72602004B6B000745D4B /* valencia.png */; };
+		E37B72752004B6B000745D4B /* villarreal.png in Resources */ = {isa = PBXBuildFile; fileRef = E37B72612004B6B000745D4B /* villarreal.png */; };
+		E37B727F2004C00700745D4B /* 30x30_11120623juan-carlos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E37B72772004C00700745D4B /* 30x30_11120623juan-carlos.jpg */; };
+		E37B72802004C00700745D4B /* 250x250_05170820deivid.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E37B72782004C00700745D4B /* 250x250_05170820deivid.jpg */; };
+		E37B72812004C00700745D4B /* 250x250_11120622abel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E37B72792004C00700745D4B /* 250x250_11120622abel.jpg */; };
+		E37B72822004C00700745D4B /* 250x250_11120622campabadal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E37B727A2004C00700745D4B /* 250x250_11120622campabadal.jpg */; };
+		E37B72832004C00700745D4B /* 250x250_14122515alesksandar-pantic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E37B727B2004C00700745D4B /* 250x250_14122515alesksandar-pantic.jpg */; };
+		E37B72842004C00700745D4B /* Aurtenetxe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E37B727C2004C00700745D4B /* Aurtenetxe.jpg */; };
+		E37B72852004C00700745D4B /* Iraizoz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E37B727D2004C00700745D4B /* Iraizoz.jpg */; };
+		E37B72862004C00700745D4B /* Toquero.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E37B727E2004C00700745D4B /* Toquero.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +50,34 @@
 		E37B72432004B15000745D4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E37B72462004B15000745D4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E37B72482004B15000745D4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E37B724E2004B6B000745D4B /* alaves.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = alaves.png; sourceTree = "<group>"; };
+		E37B724F2004B6B000745D4B /* athletic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = athletic.png; sourceTree = "<group>"; };
+		E37B72502004B6B000745D4B /* atm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = atm.png; sourceTree = "<group>"; };
+		E37B72512004B6B000745D4B /* betis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = betis.png; sourceTree = "<group>"; };
+		E37B72522004B6B000745D4B /* celta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = celta.png; sourceTree = "<group>"; };
+		E37B72532004B6B000745D4B /* depor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = depor.png; sourceTree = "<group>"; };
+		E37B72542004B6B000745D4B /* eibar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = eibar.png; sourceTree = "<group>"; };
+		E37B72552004B6B000745D4B /* espanyol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = espanyol.png; sourceTree = "<group>"; };
+		E37B72562004B6B000745D4B /* fcb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fcb.png; sourceTree = "<group>"; };
+		E37B72572004B6B000745D4B /* granada.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = granada.png; sourceTree = "<group>"; };
+		E37B72582004B6B000745D4B /* laspalmas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = laspalmas.png; sourceTree = "<group>"; };
+		E37B72592004B6B000745D4B /* leganes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = leganes.png; sourceTree = "<group>"; };
+		E37B725A2004B6B000745D4B /* malaga.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = malaga.png; sourceTree = "<group>"; };
+		E37B725B2004B6B000745D4B /* osasuna.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = osasuna.png; sourceTree = "<group>"; };
+		E37B725C2004B6B000745D4B /* realmadrid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = realmadrid.png; sourceTree = "<group>"; };
+		E37B725D2004B6B000745D4B /* realsociedad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = realsociedad.png; sourceTree = "<group>"; };
+		E37B725E2004B6B000745D4B /* realsporting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = realsporting.png; sourceTree = "<group>"; };
+		E37B725F2004B6B000745D4B /* sevilla.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sevilla.png; sourceTree = "<group>"; };
+		E37B72602004B6B000745D4B /* valencia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = valencia.png; sourceTree = "<group>"; };
+		E37B72612004B6B000745D4B /* villarreal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = villarreal.png; sourceTree = "<group>"; };
+		E37B72772004C00700745D4B /* 30x30_11120623juan-carlos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "30x30_11120623juan-carlos.jpg"; sourceTree = "<group>"; };
+		E37B72782004C00700745D4B /* 250x250_05170820deivid.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 250x250_05170820deivid.jpg; sourceTree = "<group>"; };
+		E37B72792004C00700745D4B /* 250x250_11120622abel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 250x250_11120622abel.jpg; sourceTree = "<group>"; };
+		E37B727A2004C00700745D4B /* 250x250_11120622campabadal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 250x250_11120622campabadal.jpg; sourceTree = "<group>"; };
+		E37B727B2004C00700745D4B /* 250x250_14122515alesksandar-pantic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "250x250_14122515alesksandar-pantic.jpg"; sourceTree = "<group>"; };
+		E37B727C2004C00700745D4B /* Aurtenetxe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Aurtenetxe.jpg; sourceTree = "<group>"; };
+		E37B727D2004C00700745D4B /* Iraizoz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Iraizoz.jpg; sourceTree = "<group>"; };
+		E37B727E2004C00700745D4B /* Toquero.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Toquero.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +110,8 @@
 		E37B723B2004B15000745D4B /* TablasEstaticas */ = {
 			isa = PBXGroup;
 			children = (
+				E37B72872004C01000745D4B /* Jugadores */,
+				E37B72762004B6BA00745D4B /* Escudos */,
 				E37B723C2004B15000745D4B /* AppDelegate.swift */,
 				E37B723E2004B15000745D4B /* ViewController.swift */,
 				E37B72402004B15000745D4B /* Main.storyboard */,
@@ -62,6 +120,48 @@
 				E37B72482004B15000745D4B /* Info.plist */,
 			);
 			path = TablasEstaticas;
+			sourceTree = "<group>";
+		};
+		E37B72762004B6BA00745D4B /* Escudos */ = {
+			isa = PBXGroup;
+			children = (
+				E37B724E2004B6B000745D4B /* alaves.png */,
+				E37B724F2004B6B000745D4B /* athletic.png */,
+				E37B72502004B6B000745D4B /* atm.png */,
+				E37B72512004B6B000745D4B /* betis.png */,
+				E37B72522004B6B000745D4B /* celta.png */,
+				E37B72532004B6B000745D4B /* depor.png */,
+				E37B72542004B6B000745D4B /* eibar.png */,
+				E37B72552004B6B000745D4B /* espanyol.png */,
+				E37B72562004B6B000745D4B /* fcb.png */,
+				E37B72572004B6B000745D4B /* granada.png */,
+				E37B72582004B6B000745D4B /* laspalmas.png */,
+				E37B72592004B6B000745D4B /* leganes.png */,
+				E37B725A2004B6B000745D4B /* malaga.png */,
+				E37B725B2004B6B000745D4B /* osasuna.png */,
+				E37B725C2004B6B000745D4B /* realmadrid.png */,
+				E37B725D2004B6B000745D4B /* realsociedad.png */,
+				E37B725E2004B6B000745D4B /* realsporting.png */,
+				E37B725F2004B6B000745D4B /* sevilla.png */,
+				E37B72602004B6B000745D4B /* valencia.png */,
+				E37B72612004B6B000745D4B /* villarreal.png */,
+			);
+			name = Escudos;
+			sourceTree = "<group>";
+		};
+		E37B72872004C01000745D4B /* Jugadores */ = {
+			isa = PBXGroup;
+			children = (
+				E37B72772004C00700745D4B /* 30x30_11120623juan-carlos.jpg */,
+				E37B72782004C00700745D4B /* 250x250_05170820deivid.jpg */,
+				E37B72792004C00700745D4B /* 250x250_11120622abel.jpg */,
+				E37B727A2004C00700745D4B /* 250x250_11120622campabadal.jpg */,
+				E37B727B2004C00700745D4B /* 250x250_14122515alesksandar-pantic.jpg */,
+				E37B727C2004C00700745D4B /* Aurtenetxe.jpg */,
+				E37B727D2004C00700745D4B /* Iraizoz.jpg */,
+				E37B727E2004C00700745D4B /* Toquero.jpg */,
+			);
+			name = Jugadores;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,8 +223,36 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E37B72802004C00700745D4B /* 250x250_05170820deivid.jpg in Resources */,
+				E37B727F2004C00700745D4B /* 30x30_11120623juan-carlos.jpg in Resources */,
+				E37B726E2004B6B000745D4B /* malaga.png in Resources */,
+				E37B726C2004B6B000745D4B /* laspalmas.png in Resources */,
+				E37B72642004B6B000745D4B /* atm.png in Resources */,
+				E37B726B2004B6B000745D4B /* granada.png in Resources */,
+				E37B72682004B6B000745D4B /* eibar.png in Resources */,
+				E37B72812004C00700745D4B /* 250x250_11120622abel.jpg in Resources */,
+				E37B72822004C00700745D4B /* 250x250_11120622campabadal.jpg in Resources */,
+				E37B72722004B6B000745D4B /* realsporting.png in Resources */,
+				E37B72712004B6B000745D4B /* realsociedad.png in Resources */,
+				E37B72732004B6B000745D4B /* sevilla.png in Resources */,
 				E37B72472004B15000745D4B /* LaunchScreen.storyboard in Resources */,
+				E37B72622004B6B000745D4B /* alaves.png in Resources */,
+				E37B72652004B6B000745D4B /* betis.png in Resources */,
+				E37B72702004B6B000745D4B /* realmadrid.png in Resources */,
+				E37B72692004B6B000745D4B /* espanyol.png in Resources */,
+				E37B72632004B6B000745D4B /* athletic.png in Resources */,
+				E37B72742004B6B000745D4B /* valencia.png in Resources */,
+				E37B726D2004B6B000745D4B /* leganes.png in Resources */,
+				E37B72662004B6B000745D4B /* celta.png in Resources */,
 				E37B72442004B15000745D4B /* Assets.xcassets in Resources */,
+				E37B726A2004B6B000745D4B /* fcb.png in Resources */,
+				E37B72672004B6B000745D4B /* depor.png in Resources */,
+				E37B72842004C00700745D4B /* Aurtenetxe.jpg in Resources */,
+				E37B72832004C00700745D4B /* 250x250_14122515alesksandar-pantic.jpg in Resources */,
+				E37B726F2004B6B000745D4B /* osasuna.png in Resources */,
+				E37B72862004C00700745D4B /* Toquero.jpg in Resources */,
+				E37B72752004B6B000745D4B /* villarreal.png in Resources */,
+				E37B72852004C00700745D4B /* Iraizoz.jpg in Resources */,
 				E37B72422004B15000745D4B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
